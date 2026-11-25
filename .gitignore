@@ -1,0 +1,17 @@
+# Rust
+/backend/target/
+*.db
+*.db-shm
+*.db-wal
+/backend/data/
+/backend/workspace/
+
+# Node / Frontend
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.vite/
+
+# Env & OS
+.env
+.env.local
+.DS_Store
